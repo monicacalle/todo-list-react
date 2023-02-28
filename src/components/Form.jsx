@@ -25,7 +25,7 @@ const Form = () => {
 
   return (
     <div className="form">
-      <h1 className="title">Todos</h1>
+      <h1 className="title">THINGS TO DO</h1>
       <form onSubmit={onSubmit}>
         <input
           type="text"

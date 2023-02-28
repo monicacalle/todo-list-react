@@ -1,19 +1,28 @@
-.App {
-  background-color: black;
+html {
+  background-color: aliceblue;
+   height: 100vh;
+ 
+
 }
 .form {
+  display: flex;
   flex-direction: column;
-  justify-content: center;
   margin: auto;
   text-align: center;
   width: 450px;
-  height: 560px;
-  background-color: hsl(0, 0%, 90%);
+  height: 100%;
+  background-color: hsl(0, 33%, 95%);
   padding-right: 10px;
 }
 
 .title {
-  color: rgba(red, green, blue, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top50px: ;
+  color: rgba(rgb(85, 47, 47), green, blue, 0.3);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 button {
